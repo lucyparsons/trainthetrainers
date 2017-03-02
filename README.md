@@ -1,17 +1,17 @@
 # Train the Trainers
 
-At LPL we get requests for operational and digital security trainings, infrastructure security reviews, and web security reviews from activists, legal support, and non profits. Below are some good resources in these areas. 
+At LPL we get requests for operational and digital security trainings, infrastructure security reviews, and web security reviews from activists, legal support, and non profits. We are trying to compile some good resources in these areas in this repo. PRs welcome.
 
-If you know of good resources, please submit a PR to get them added here.
+## Operational Security Training
 
-## Operational Security
+[List of OPSEC resources from the grugq](https://grugq.github.io/resources/)
 
+## Digital Security Training
 
+### Read this first 
+[Roles and Responsibilities of a Digital Security Trainer](http://level-up.cc/you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/) - Level Up
 
-
-## Digital Security
-
-Read this first: [Roles and Responsibilities of a Digital Security Trainer](http://level-up.cc/you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/) from Level Up
+### Curriculum Resources
 
 [Tactical Tech Curriculum](https://myshadow.org/train) - contains curriculum guides and resources that can be printed out for digital security trainings. 
 
@@ -21,7 +21,23 @@ Read this first: [Roles and Responsibilities of a Digital Security Trainer](http
 
 [Security Training Resources for Security Trainers - Winter 2016](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3#.z8l2gxog1) by Rachel Weidinger, Cooper Quintin, Martin Shelton, and Matt Mitchell
 
-## Infrastructure Review
+## Infrastructure Security Review
+
+[FTC security guide aimed at small businesses](https://www.ftc.gov/tips-advice/business-center/guidance/start-security-guide-business) - relevant for non-profits
+
+[OTAlliance security / privacy best practices](https://otalliance.org/resources/security-privacy-best-practices)
+
+[OTAlliance risk assessment questions](https://otalliance.org/resources/security-privacy-risk-assessment)
+
+[Decent list of questions about IT infrastructure](https://github.com/artsturdevant/it-handoff-audit)
+
+[PCI standards](https://pcicompliance.stanford.edu/sites/default/files/pci_dss_v3-2.pdf) - yeah yeah. It's worth knowing about
+
+[List of questions on security architecture](https://zeltser.com/security-architecture-cheat-sheet/)
+
+[Writing a security assessment report](https://zeltser.com/security-assessment-report-cheat-sheet/)
 
 
-## Web Review
+## Web Security Review
+
+[OWASP Developer Guide](https://www.owasp.org/index.php/OWASP_Guide_Project)
