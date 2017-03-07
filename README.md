@@ -23,6 +23,8 @@ At LPL we get requests for operational and digital security trainings, infrastru
 
 ## Infrastructure Security Review
 
+[SAFETAG - A Security Auditing Framework and Evaluation Template for Advocacy Groups](https://safetag.org/guide/index.html) - Great guide by Internews on infra audits.
+
 [FTC security guide aimed at small businesses](https://www.ftc.gov/tips-advice/business-center/guidance/start-security-guide-business) - relevant for non-profits
 
 [OTAlliance security / privacy best practices](https://otalliance.org/resources/security-privacy-best-practices)
