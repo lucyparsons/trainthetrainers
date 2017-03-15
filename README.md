@@ -39,7 +39,11 @@ At LPL we get requests for operational and digital security trainings, infrastru
 
 [Writing a security assessment report](https://zeltser.com/security-assessment-report-cheat-sheet/)
 
+[ANSSI - 40 Essential Measures for a Healthy Network](https://www.ssi.gouv.fr/uploads/2013/01/guide_hygiene_v1-2-1_en.pdf)
+
 
 ## Web Security Review
 
 [OWASP Developer Guide](https://www.owasp.org/index.php/OWASP_Guide_Project)
+
+[OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project)
