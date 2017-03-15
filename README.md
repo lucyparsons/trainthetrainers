@@ -1,6 +1,8 @@
+![](img/lpl-logo-colorWEB-transp.png)
+
 # Train the Trainers
 
-At LPL we get requests for operational and digital security trainings, infrastructure security reviews, and web security reviews from activists, legal support, and non profits. We are trying to compile some good resources in these areas in this repo. PRs welcome.
+At LPL we get requests for operational and digital security trainings, infrastructure security reviews, and web security reviews from activists, legal support groups, and non profits. We are trying to compile some good resources in these areas. PRs welcome!
 
 ## Operational Security Training
 
@@ -8,12 +10,12 @@ At LPL we get requests for operational and digital security trainings, infrastru
 
 ## Digital Security Training
 
-### Read this first 
+### Read this first
 [Roles and Responsibilities of a Digital Security Trainer](http://level-up.cc/you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/) - Level Up
 
 ### Curriculum Resources
 
-[Tactical Tech Curriculum](https://myshadow.org/train) - contains curriculum guides and resources that can be printed out for digital security trainings. 
+[Tactical Tech Curriculum](https://myshadow.org/train) - contains curriculum guides and resources that can be printed out for digital security trainings.
 
 [EFF Surveillance Self Defense Playlists](https://ssd.eff.org/en/playlist) - contains "playlists" for the security concerns of different groups
 
