@@ -19,9 +19,9 @@ At LPL we get requests for operational and digital security trainings, infrastru
 
 [EFF Surveillance Self Defense Playlists](https://ssd.eff.org/en/playlist) - contains "playlists" for the security concerns of different groups
 
-[How to Lead a Digital Security Workshop](https://motherboard.vice.com/en_us/article/how-to-give-a-digital-security-training) - by Rachel Weidinger, Cooper Quintin, Martin Shelton, and Matt Mitchell
+[How to Lead a Digital Security Workshop](https://www.vice.com/en/article/4xby8g/how-to-give-a-digital-security-training) - by Rachel Weidinger, Cooper Quintin, Martin Shelton, and Matt Mitchell
 
-[Security Training Resources for Security Trainers - Winter 2016](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3#.z8l2gxog1) by Rachel Weidinger, Cooper Quintin, Martin Shelton, and Matt Mitchell
+[Security Training Resources for Security Trainers - Winter 2017](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3#.z8l2gxog1) by Rachel Weidinger, Cooper Quintin, Martin Shelton, and Matt Mitchell
 
 ## Infrastructure Security Review
 
@@ -35,7 +35,7 @@ At LPL we get requests for operational and digital security trainings, infrastru
 
 [Decent list of questions about IT infrastructure](https://github.com/artsturdevant/it-handoff-audit)
 
-[PCI standards](https://pcicompliance.stanford.edu/sites/default/files/pci_dss_v3-2.pdf) - yeah yeah. It's worth knowing about
+[PCI standards](https://raw.githubusercontent.com/RooneyMcNibNug/sysadmin-resources/master/PCI_DSS_v3-2-1.pdf) - yeah yeah. It's worth knowing about
 
 [List of questions on security architecture](https://zeltser.com/security-architecture-cheat-sheet/)
 
